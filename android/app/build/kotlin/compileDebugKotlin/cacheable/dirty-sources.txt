@@ -1,0 +1,2 @@
+/Users/ragnar/StudioProjects/Rose_Bowl/android/app/src/main/kotlin/MainActivity.kt
+/Users/ragnar/StudioProjects/Rose_Bowl/android/app/src/main/kotlin/com/example/rose_bowl/MainActivity.kt
